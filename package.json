@@ -1,0 +1,32 @@
+{
+  "name": "seajsgulpmodule",
+  "version": "1.0.0",
+  "description": "一个基于gulp、seajs的构建工具",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "www.yxlblog.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-file-include": "^1.2.0",
+    "gulp-filter": "^5.0.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^8.0.0",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-smushit": "^1.2.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.5"
+  }
+}
