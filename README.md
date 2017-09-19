@@ -5,7 +5,7 @@
    2. scss 预编译
    3. 图片压缩
    4. 热更新
-   5. jslint 代码检测
+   5. jshint 代码检测
    6. 基于seajs的模块化思想
 ````
 
@@ -25,5 +25,5 @@
 ````
 ### cmd命令行执行 git clone git@github.com:JerryMark1/seajsGulpModule.git
 ### 克隆下来后 执行 npm install 安装相关的模块
-### 第一次构建 使用 gulp build
+### 第一次构建 使用 gulp build 构建出来的文件都是压缩的，  xx.min.xx 这样的形式 所以引入的时候注意看
 ### 然后时候 gulp watch 来实时检测文件
